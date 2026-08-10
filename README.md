@@ -8,7 +8,7 @@ This repository contains plugin artifacts for Usagi and any apps that use the sa
 **:point_right: You can download these artifacts from [this page](https://github.com/Gekkoushi/plugin/releases/). It's always safe and ready to download.**
 
 ### Contribute
-**:wave: You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/Gekkoushi/plugin).**
+**:wave: You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/Gekkoushi/plugin-source).**
 
 -----------------
 
