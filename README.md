@@ -7,11 +7,16 @@ This repository contains plugin artifacts for Usagi and any apps that use the sa
 >
 > **v0.0.31-beta1** and below use this plugin --> https://github.com/mochi-plugins/repository
 >
-> **v0.0.32-beta2** and above --> https://github.com/InvalidDavid/UMA/releases/tag/d9db4a9 (Updates yes.)
+> **v0.0.32-beta2** and above --> https://github.com/InvalidDavid/UMA/releases/tag/ea0f1d0 (Updates yes.)
 >
 > Manual install is required for UMA is required.
 >
 > **v0.0.32-beta2** and above --> https://github.com/Gekkoushi/plugin (No updates, 1.3k sources)
+
+
+### Support Server
+
+[![Discord][discord-shield]][discord-url]
 
 ### Please give the repo a :star:
 
@@ -44,6 +49,8 @@ All programs from [Gekkoushi](https://github.com/Gekkoushi) are free, open-sourc
 
 </div>
 
+[discord-shield]: https://img.shields.io/discord/1518057632064209017?label=Discord&logo=discord
+[discord-url]: https://discord.gg/CyJeVDP7Cw
 ### Disclaimer
 
 **`¯\_(ツ)_/¯`**
