@@ -2,6 +2,17 @@
 
 This repository contains plugin artifacts for Usagi and any apps that use the same structure with Tsuki.
 
+> [!IMPORTANT]
+> Only for the Usagi App!
+>
+> **v0.0.31-beta1** and below use this plugin --> https://github.com/mochi-plugins/repository
+>
+> **v0.0.32-beta2** and above --> https://github.com/InvalidDavid/UMA/releases/tag/d9db4a9 (Updates yes.)
+>
+> Manual install is required for UMA is required.
+>
+> **v0.0.32-beta2** and above --> https://github.com/Gekkoushi/plugin (No updates, 1.3k sources)
+
 ### Please give the repo a :star:
 
 ### Usage
