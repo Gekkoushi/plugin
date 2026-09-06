@@ -7,6 +7,7 @@ This repository contains plugin artifacts for Usagi and any apps that use the sa
 >
 > --> https://github.com/InvalidDavid/UMA/releases/tag/067e303 Automatic or Manual works 
 > **Only for the 1.0version**
+>
 > --> https://github.com/Gekkoushi/plugin (No updates, 1.3k sources)
 
 
